@@ -1,6 +1,6 @@
 # AttentionLocation
 
-This repository contains the analysis code that goes with the manuscript "Independent spatiotemporal effects of spatial attention and background clutter on human object location representations".
+This repository contains the analysis code that goes with the manuscript [Independent spatiotemporal effects of spatial attention and background clutter on human object location representations](https://www.biorxiv.org/content/10.1101/2022.05.02.490141v1).
 
 The fMRI and EEG data can be downloaded [here](https://osf.io/hf6zp/).
 
