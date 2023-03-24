@@ -2,8 +2,6 @@ function EEG_decoding(steps,permutations,sbj)
 % Time-resolved- and generalized EEG cross-decoding of object location
 % across categories.
 
-% Duration: ??
-
 % Input:
 %       steps: time steps to analyze, integer. 1= 1 ms resolution. Use steps=10 to
 %       downsample to 10 ms resolution to make script run faster
